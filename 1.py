@@ -13,7 +13,7 @@ from telethon.sessions import StringSession
 api_id = 25512251  # my.telegram.org'dan al
 api_hash = "86cf5ff56e56c4f20a7b1295b130e720"
 
-string_session = "1BJWap1sBu1908Xp9OWTrbuzwR2Z6WmwMsrxqvyW--cuM7C5fR7wYH1SyWqUEReIENds6Cf8BeyWZ7tc7YLnKK9kyrxto_d5ds1_jTCOtmWyOZPuH1MZgVis13sQmgFwEKv7PGLTydoRyxXQ-ojfKX4S87tIraHxZgxsas-GOAVIslKsRRkfa3H2BVLGYG9V194YMJbWQTxs7_1VVTfSuQ7slbjg5cEjVIeaAV0XYtorr7o7nTe-O9A8iG8SuYh5M8z5vOaBXipeWUtmwigxoOJxnW3__kqGkIAhJ84Tdv0VAhXrz_mqf2gadGMZLMhNpswB1P_UbWSHa9YDu2Uk6gxpzFpMRzJM="
+string_session = ""
 
 input("📱 Telefon numaranızı girin (opsiyonel): ")
 
